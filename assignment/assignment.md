@@ -1,4 +1,3 @@
-![alt text](https://ineuron.ai/images/ineuron-logo.png)
 
 # Assignment for Customer Segmentation Project
 
